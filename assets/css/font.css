@@ -1,0 +1,112 @@
+@font-face {
+  font-family: AlexBrushRegular;
+  src: url(../font/AlexBrush-Regular.woff);
+}
+@font-face {
+  font-family: ChunkFiveRegular;
+  src: url(../font/ChunkFive-Regular.woff);
+}
+@font-face {
+  font-family: ChunkFivePrint;
+  src: url(../font/ChunkFivePrint.woff);
+}
+@font-face {
+  font-family: KhausanScriptRegular;
+  src: url(../font/KaushanScript-Regular.woff);
+}
+@font-face {
+  font-family: RubikBlack;
+  src: url(../font/Rubik-Black.woff);
+}
+@font-face {
+  font-family: RubikBlackItalic;
+  src: url(../font/Rubik-BlackItalic.woff);
+}
+@font-face {
+  font-family: RubikBold;
+  src: url(../font/Rubik-Bold.woff);
+}
+@font-face {
+  font-family: RubikBoldItalic;
+  src: url(../font/Rubik-BoldItalic.woff);
+}
+@font-face {
+  font-family: RubikItalic;
+  src: url(../font/Rubik-Italic.woff);
+}
+@font-face {
+  font-family: RubikLight;
+  src: url(../font/Rubik-Light.woff);
+}
+@font-face {
+  font-family: RubikLightItalic;
+  src: url(../font/Rubik-LightItalic.woff);
+}
+@font-face {
+  font-family: RubikMedium;
+  src: url(../font/Rubik-Medium.woff);
+}
+@font-face {
+  font-family: RubikMediumItalic;
+  src: url(../font/Rubik-MediumItalic.woff);
+}
+@font-face {
+  font-family: RubikRegular;
+  src: url(../font/Rubik-Regular.woff);
+}
+@font-face {
+  font-family: SCP-Black;
+  src: url(../font/SourceCodePro-Black.woff);
+}
+@font-face {
+  font-family: SCP-Italic;
+  src: url(../font/SourceCodePro-BlackIt.woff);
+}
+@font-face {
+  font-family: SCP-Bold;
+  src: url(../font/SourceCodePro-Bold.woff);
+}
+@font-face {
+  font-family: SCP-BoldItalic;
+  src: url(../font/SourceCodePro-BoldIt.woff);
+}
+@font-face {
+  font-family: SCP-ExtraLight;
+  src: url(../font/SourceCodePro-ExtraLight.woff);
+}
+@font-face {
+  font-family: SCP-ExtraLightItalic;
+  src: url(../font/SourceCodePro-ExtraLightIt.woff);
+}
+@font-face {
+  font-family: SCP-Italic;
+  src: url(../font/SourceCodePro-It.woff);
+}
+@font-face {
+  font-family: SCP-Light;
+  src: url(../font/SourceCodePro-Light.woff);
+}
+@font-face {
+  font-family: SCP-LightItalic;
+  src: url(../font/SourceCodePro-LightIt.woff);
+}
+@font-face {
+  font-family: SCP-Medium;
+  src: url(../font/SourceCodePro-Medium.woff);
+}
+@font-face {
+  font-family: SCP-MediumItalic;
+  src: url(../font/SourceCodePro-MediumIt.woff);
+}
+@font-face {
+  font-family: SCP-Regular;
+  src: url(../font/SourceCodePro-Regular.woff);
+}
+@font-face {
+  font-family: SCP-SemiBold;
+  src: url(../font/SourceCodePro-Semibold.woff);
+}
+@font-face {
+  font-family: SCP-SemiBoldItalic;
+  src: url(../font/SourceCodePro-SemiboldIt.woff);
+}

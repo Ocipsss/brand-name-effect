@@ -1,0 +1,94 @@
+@import url(font.css);
+@import url(reset.css);
+/* ############################### */
+/* ############################### */
+.navbar {
+  background-color: blue;
+  width: 90%;
+  margin: 10px auto;
+}
+/* <-----------##########-----------> */
+/* BRAND-EFECT */
+.logoNama {
+  font-size: 30px;
+}
+.namaLogoT {
+  font-family: SCP-Bold;
+  text-shadow: 2px 2px 2px lightgreen, -2px -1px 2px lightgreen;
+  display: inline-block;
+  color: blue;
+  transition: 100ms ease-in;
+}
+.namaLogoO {
+  font-family: SCP-Bold;
+  text-shadow: 2px 2px 2px lightgreen, -2px -1px 2px lightgreen;
+  display: inline-block;
+  color: blue;
+  transition: 200ms 50ms;
+}
+.namaLogoS {
+  font-family: SCP-Bold;
+  text-shadow: 2px 2px 2px lightgreen, -2px -1px 2px lightgreen;
+  display: inline-block;
+  color: blue;
+  transition: 300ms 100ms;
+}
+.namaLogoA {
+  font-family: SCP-Bold;
+  text-shadow: 2px 2px 2px lightgreen, -2px -1px 2px lightgreen;
+  display: inline-block;
+  color: blue;
+  transition: 400ms 150ms;
+}
+.namaLogoR {
+  font-family: SCP-Bold;
+  text-shadow: 2px 2px 2px lightgreen, -2px -1px 2px lightgreen;
+  display: inline-block;
+  color: blue;
+  transition: 500ms 200ms;
+}
+.namaLogoU {
+  font-family: SCP-Bold;
+  text-shadow: 2px 2px 2px lightgreen, -2px -1px 2px lightgreen;
+  display: inline-block;
+  color: blue;
+  transition: 600ms 250ms;
+}
+.logoNama:hover .namaLogoT {
+  color: aqua;
+  text-shadow: 2px -2px 2px rgb(133, 228, 133);
+  margin-left: 0px;
+  transform: rotate(360deg);
+}
+.logoNama:hover .namaLogoO {
+  color: aqua;
+  text-shadow: 2px -2px 2px rgb(133, 228, 133);
+  margin-left: 0px;
+  transform: translateX(-8px) rotate(-360deg);
+}
+.logoNama:hover .namaLogoS {
+  color: aqua;
+  text-shadow: 2px -2px 2px rgb(133, 228, 133);
+  margin-left: 0px;
+  transform: translateX(-16px) rotate(360deg);
+}
+.logoNama:hover .namaLogoA {
+  color: aqua;
+  text-shadow: 2px -2px 2px rgb(133, 228, 133);
+  margin-left: 0px;
+  transform: translateX(-24px) rotate(-360deg);
+}
+.logoNama:hover .namaLogoR {
+  color: aqua;
+  text-shadow: 2px -2px 2px rgb(133, 228, 133);
+  margin-left: 0px;
+  transform: translateX(-32px) rotate(360deg);
+}
+.logoNama:hover .namaLogoU {
+  color: aqua;
+  text-shadow: 2px -2px 2px rgb(133, 228, 133);
+  margin-left: 0px;
+  transform: translateX(-40px) rotate(-360deg);
+}
+/* END-BRAND-EFECT */
+/* <-----------##########-----------> */
